@@ -77,3 +77,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 from tensorflow.keras.models import load_model
 best_model = load_model('saved_models/best_model.h5')
 ```
+
+### Walkthrough Video 
+
+Link to walkthrough vide: https://drive.google.com/drive/folders/1QxsAvpemVIdrM1ifNkOp9E3qisBGk6Jy?usp=sharing 
